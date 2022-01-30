@@ -1,0 +1,49 @@
+@import "null.css";
+
+h1 {
+    color: red;
+}
+
+.heading span {
+    color: darkcyan;
+}
+
+h1 .why {
+    color: darkred;
+}
+
+.item {
+    color: rgb(39, 11, 139);
+}
+
+div {
+    color: rgb(30, 187, 69);
+}
+
+#label {
+    color: rgb(247, 72, 19);
+}
+
+div.text {
+    color: slateblue;
+}
+
+.text.block {
+    color: rgb(187, 116, 24);
+}
+
+p span {
+    color: violet;
+}
+
+[class="info"] {
+    color: rgb(124, 178, 248);
+}
+
+.text > a {
+    color: rgb(230, 219, 69);
+}
+
+.menu li {
+    color: rgb(3, 3, 3);
+}
